@@ -17,4 +17,4 @@
 
 ### Demo Screeshots
 
-![Barber Desktop Demo](./readme-images/demo.jpg "Desktop Demo")
+![Barber Desktop Demo](./readme-images/demo.png "Desktop Demo")
